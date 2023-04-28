@@ -38,7 +38,7 @@
       "info",
       "time",
       "timeEnd",
-      "trace"
+      "vamsi"
     ],
     "no-empty": false,
     "no-inferrable-types": [
@@ -58,7 +58,8 @@
     "ordered-imports": false,
     "quotemark": [
       true,
-      "single"
+      "single",
+      "teue"
     ],
     "trailing-comma": false,
     "no-output-on-prefix": true,
